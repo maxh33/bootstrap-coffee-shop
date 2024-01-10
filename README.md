@@ -28,14 +28,14 @@ This is a responsive landing page for a cafeteria. It includes a carousel, infor
 
 ## Deployment
 
-The application is deployed and can be accessed at [your-vercel-url](your-vercel-url)
+The application is deployed and can be accessed at [https://bootstrap-coffee-shop.vercel.app/](https://bootstrap-coffee-shop.vercel.app/)
 
 ## Running the Page Locally
 
 Use the following command in your terminal:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/maxh33/bootstrap-coffee-shop>
 ```
 After cloning the repository, open Visual Studio Code. Use the `File -> Open Folder` menu item to navigate to the cloned repository and open it. Open the `index.html` file in your browser.
 
