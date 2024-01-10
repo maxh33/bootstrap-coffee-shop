@@ -26,7 +26,7 @@ This is a responsive landing page for a cafeteria. It includes a carousel, infor
 3. Read about the cafeteria and the space in the provided sections.
 4. Explore the different types of coffee in the corresponding section.
 
-![Project Demo](https://github.com/maxh33/bootstrap-coffee-shop/tree/main/img/demo.gif)
+![Project Demo](https://github.com/maxh33/bootstrap-coffee-shop/raw/main/img/demo.gif)
 
 ## Deployment
 
